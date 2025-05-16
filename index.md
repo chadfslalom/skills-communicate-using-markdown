@@ -12,3 +12,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] This is
+- [ ] an unchecked/unfinished
+- [ ] task item
+- [x] but this one and the next are
+- [x] completed items
